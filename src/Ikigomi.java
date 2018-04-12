@@ -2,7 +2,7 @@
 public class Ikigomi {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("楽しみを見つけて楽しんで授業が受けられるように頑張ります");
 
 	}
 
